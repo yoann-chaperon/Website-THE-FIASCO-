@@ -32,11 +32,11 @@ img {
 }
 
 .header {
-    background: url(/img/eggs.jpg) center center / cover no-repeat;
+    background: url(/img/eggs.jpg) center center / cover no-repeat,
     linear-gradient(180deg,
         rgba(0, 0, 0, 0.922045) 15.5%,
         rgba(54, 54, 54, 0.5) 39.24%,
-        rgba(28, 28, 28, 0.4)),
+        rgba(28, 28, 28, 0.4));
     color: #FFF;
 }
 
