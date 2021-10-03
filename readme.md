@@ -1,8 +1,9 @@
 # WebSite "**THE FIASCO**"
 
 ---
-[aperçu](https://yoann-chaperon.github.io/Website-THE-FIASCO-/)
-
+[aperçu](https://yoann-chaperon.github.io/Website-THE-FIASCO-/)  
+les backgrounds header et reservation sont bloquer par Github voir article [**GitHub is blocking FLoC**](https://www.techradar.com/news/github-is-blocking-floc) 😟
+Salut <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  mon premier site créé à partir d'un tutoriel avec le site [grafikart.fr](https://grafikart.fr/tutoriels/tp-restaurant-figma-1052#autoplay)
 
  ---
