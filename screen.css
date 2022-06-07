@@ -36,7 +36,7 @@ img {
             rgba(0, 0, 0, 0.922045) 15.5%,
             rgba(54, 54, 54, 0.5) 39.24%,
             rgba(28, 28, 28, 0.4)),
-        url(/img/eggs.jpg) center center / cover no-repeat;
+        url(/img/salle1.jpeg) center center / cover no-repeat;
     color: #FFF;
 }
 
@@ -271,7 +271,7 @@ img {
             rgba(0, 0, 0, 0.922045) 15.5%,
             rgba(54, 54, 54, 0.5) 39.24%,
             rgba(28, 28, 28, 0.4)),
-        url(/img/reservation.jpg) center center / cover no-repeat;
+        url(/img/salle2.jpeg) center center / cover no-repeat;
     color: rgba(255, 255, 255, 0.7);
     padding: 50px 0;
 }
